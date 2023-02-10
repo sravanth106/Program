@@ -7,4 +7,5 @@ for($i=1;$i<30;$i++)
 }
 echo $sum;
 echo "diff";
+sum;
 ?>
