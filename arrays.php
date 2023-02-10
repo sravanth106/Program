@@ -12,6 +12,7 @@
 // {
 //   echo var_dump($value);
 //   echo "<br>";
+exit();
 // }
 // foreach ($cars as $value)
 // {

@@ -9,5 +9,6 @@ for ($row=0; $row<7; $row++)
             echo " ";
     }
     echo "\n";
+    echo "Hello World";
 }
 ?>
